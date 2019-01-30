@@ -1,0 +1,6 @@
+framework module Pods_syncPlayerTests {
+  umbrella header "Pods-syncPlayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
